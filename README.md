@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victória César</h1>
+<h3 align="center">Hi 👋, I'm Victória César</h1>
 <p align="center">I'm a frontend developer from Brazil, currently I'm still studying and improving old skills as well as new ones. One brick at a time! 🤘</h3>
 
 <p align="center">

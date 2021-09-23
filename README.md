@@ -3,7 +3,9 @@
 <div display="inline-block">
     <p align="left">I'm a frontend developer from Brazil, currently studying and improving new skills as well as old ones.<br>
         One brick at a time! 🤘</p>
+    <p>
     <img align="right" src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" alt="Hello There" width="100" height="100"/>
+    </p>
 </div>
 
 

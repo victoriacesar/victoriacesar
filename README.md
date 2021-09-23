@@ -1,20 +1,24 @@
 <h3 align="left">Hi 👋, I'm Victória César</h1>
-<p align="center">I'm a frontend developer from Brazil, currently studying and improving old skills as well as new ones.<br>
+<p align="center">I'm a frontend developer from Brazil, currently studying and improving new skills as well as old ones.<br>
     One brick at a time! 🤘
 </h3>
 
 <p align="center">
-<img src="https://c.tenor.com/_iS_j2iYJK4AAAAM/quby-quby-chan.gif" alt="Hello There" width="100" height="100"/>
+<img src="https://www.pinclipart.com/picdir/middle/35-359998_transparent-background-pusheen-gif-clipart.png" alt="Hello There" width="100" height="100"/>
 </p>
 
-📫 How to reach me **victoriacesar@email.com**
+<h4 align="left">About me:</h4>
+- :computer: Currently working in web development.
+- :information_desk_person: Looking forward to learn more about tech enviroment.
+- :alien: I love watching tv shows, and one of my favorite's is The X Files.
 
-<h4 align="left">Connect with me:</h3>
+<h4 align="left">Still having some doubts?</h4>
+<p align="left">You can contact me whenever you want on the links below:</p>
 <p align="left">
-<a href="https://linkedin.com/in/victoriacesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victoriacesar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/victoriacesar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="victoriacesar" height="30" width="30" /></a>
 </p>
 
-<h4 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>

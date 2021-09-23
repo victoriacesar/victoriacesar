@@ -4,7 +4,7 @@
     <p align="left">I'm a frontend developer from Brazil, currently studying and improving new skills as well as old ones.<br>
         <i> One brick at a time!</i> 🤘</p>
     <p>
-    <img align="right" src="https://i.pinimg.com/originals/ab/44/e8/ab44e8b11c0e768b5e60de157117d0e7.gif" alt="Hello There" width="180" height="180"/>
+    <img align="right" src="./assets/hello.gif" alt="Hello There" width="180" height="180"/>
     </p>
 </div>
 
@@ -35,7 +35,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriacesar&show_icons=true&locale=en&layout=compact&theme=dark" alt="victoriacesar" />
 </p>
-
 
 <!--
 **victoriacesar/victoriacesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-<img src="https://www.pinclipart.com/picdir/middle/35-359998_transparent-background-pusheen-gif-clipart.png" alt="Hello There" width="100" height="100"/>
+<img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" alt="Hello There" width="100" height="100"/>
 </p>
 
 <h4 align="left">About me:</h4>

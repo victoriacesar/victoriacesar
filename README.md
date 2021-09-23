@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-<img src="https://c.tenor.com/_iS_j2iYJK4AAAAM/quby-quby-chan.gif" alt="Hello There" width="80" height="80"/>
+<img src="https://c.tenor.com/_iS_j2iYJK4AAAAM/quby-quby-chan.gif" alt="Hello There" width="100" height="100"/>
 </p>
 
 📫 How to reach me **victoriacesar@email.com**

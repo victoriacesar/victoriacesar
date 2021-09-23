@@ -1,16 +1,18 @@
-<h3 align="left">Hi 👋, I'm Victória César</h1>
-<p align="center">I'm a frontend developer from Brazil, currently studying and improving new skills as well as old ones.<br>
-    One brick at a time! 🤘
-</h3>
+<h3 align="left">Hi 👋, I'm Victória César</h3>
 
-<p align="center">
-<img src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" alt="Hello There" width="100" height="100"/>
-</p>
+<div display="inline-block">
+    <p align="left">I'm a frontend developer from Brazil, currently studying and improving new skills as well as old ones.<br>
+        One brick at a time! 🤘</p>
+    <img align="right" src="https://i.pinimg.com/originals/8a/a4/59/8aa4595fb24b6ed585dddac4622b2445.gif" alt="Hello There" width="100" height="100"/>
+</div>
+
+
+
 
 <h4 align="left">About me:</h4>
-- :computer: Currently working in web development.
-- :information_desk_person: Looking forward to learn more about tech enviroment.
-- :alien: I love watching tv shows, and one of my favorite's is The X Files.
+- :computer: Currently working in web development.<br>
+- :information_desk_person: Looking forward to learn more about tech enviroment.<br>
+- :alien: I love watching tv shows, and one of my favorite's is The X Files.<br>
 
 <h4 align="left">Still having some doubts?</h4>
 <p align="left">You can contact me whenever you want on the links below:</p>
@@ -31,7 +33,7 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriacesar&show_icons=true&locale=en&layout=compact" alt="victoriacesar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriacesar&show_icons=true&locale=en&layout=compact&theme=dark" alt="victoriacesar" /></p>
 
 <!--
 **victoriacesar/victoriacesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

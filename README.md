@@ -4,7 +4,7 @@
     <p align="left">I'm a frontend developer from Brazil, currently studying and improving new skills as well as old ones.<br>
         <i> One brick at a time!</i> 🤘</p>
     <p>
-    <img align="right" src="./assets/hello.gif" alt="Hello There" width="180" height="180"/>
+    <img align="right" src="https://i.pinimg.com/originals/39/db/3d/39db3d693d67a8707f4a730fbde1f3fb.gif" alt="Hello There" width="210" height="210"/>
     </p>
 </div>
 

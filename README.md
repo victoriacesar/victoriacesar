@@ -2,7 +2,7 @@
 <p align="left">I'm a frontend developer from Brazil, currently I'm still studying and improving old skills as well as new ones. One brick at a time! 🤘</h3>
 
 <p align="center">
-<img src="https://c.tenor.com/_iS_j2iYJK4AAAAM/quby-quby-chan.gif" alt="Hello There" width="40" height="40"/>
+<img src="https://c.tenor.com/_iS_j2iYJK4AAAAM/quby-quby-chan.gif" alt="Hello There" width="80" height="80"/>
 </p>
 
 📫 How to reach me **victoriacesar@email.com**

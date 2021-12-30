@@ -11,7 +11,7 @@
 <h4 align="left">About me:</h4>
 - :computer: Currently working in web development.<br>
 - :information_desk_person: Looking forward to learn more about tech enviroment.<br>
-- :alien: I love watching tv shows, and one of my favorite's is The X Files.<br>
+- :alien: I love watching tv shows.<br>
 
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 
@@ -35,18 +35,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victoriacesar&show_icons=true&locale=en&layout=compact&theme=dark" alt="victoriacesar" />
 </p>
-
-<!--
-**victoriacesar/victoriacesar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -11,7 +11,7 @@
 <h4 align="left">About me:</h4>
 - :computer: Currently working in web development.<br>
 - :information_desk_person: Looking forward to learn more about tech enviroment.<br>
-- :alien: I love watching tv shows.<br>
+- :alien: I love watch tv shows.<br>
 
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 

@@ -1,16 +1,12 @@
-<h3 align="left">Hi 👋, I'm Victória César</h3>
+<h3 align="left">Hi 👋, I'm Victória!</h3>
 
 <div display="inline-block">
-    <p align="left">I'm a frontend developer from Brazil, currently studying and improving new skills as well as old ones.<br>
-        <i> One brick at a time!</i> 🤘</p>
-    <p>
-    <img align="right" src="https://i.pinimg.com/originals/39/db/3d/39db3d693d67a8707f4a730fbde1f3fb.gif" alt="Hello There" width="210" height="210"/>
-    </p>
+    <p align="left">I'm a fullstack developer from Brazil, currently working with JS stack and also studying more about front-end and back-end environment.<br>
 </div>
 
 <h4 align="left">About me:</h4>
 - :computer: Currently working in web development.<br>
-- :information_desk_person: Looking forward to learn more about tech enviroment.<br>
+- :information_desk_person: Looking forward to learn more about tech stuff.<br>
 
 <h4 align="center">Languages and Tools:</h4>
 <p align="center"> 

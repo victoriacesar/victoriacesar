@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋, I'm Victória!</h3>
 
 <div display="inline-block">
-    <p align="left">I'm a fullstack developer from Brazil, currently working with JS stack and also studying more about front-end and back-end environment.<br>
+    <p align="left">I'm a fullstack developer from Brazil living in Portugal, currently working with JS stack and also studying more about front-end and back-end environment.<br>
 </div>
 
 <h4 align="left">About me:</h4>
